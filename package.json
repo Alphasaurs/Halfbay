@@ -1,0 +1,27 @@
+{
+  "name": "halfbay",
+  "version": "1.0.0",
+  "description": "A blog api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alphasaurs/Halfbay.git"
+  },
+  "author": "Alphasaurs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alphasaurs/Halfbay/issues"
+  },
+  "homepage": "https://github.com/Alphasaurs/Halfbay#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.9"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.6"
+  }
+}
