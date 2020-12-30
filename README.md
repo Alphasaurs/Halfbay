@@ -1,7 +1,7 @@
 # A blog api
 
 
-<div align="center">
+<div>
  <h3>Techstack used</h3>
 <table>
     <tbody>
